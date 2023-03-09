@@ -1,0 +1,39 @@
+.ContainerLog {
+  display: flex;
+  flex-direction: column;
+  height: 660px;
+  margin-left: 370px;
+  justify-content: center;
+}
+
+.btn.btn-primary {
+  background-color: purple;
+  margin-bottom: -50px;
+  margin-right: 0px;
+}
+.createAccount {
+  margin-top: 50px;
+}
+.Container1 {
+  background-color: rgba(237, 40, 237, 0.629);
+  height: 700px;
+  background-image: url(/public/login.png);
+  height: 700px;
+  background-size: cover;
+  background-position-x: 00px;
+  background-position-y: 00px;
+}
+.form-control {
+  width: 500px;
+  background-color: oldlace;
+  border-radius: 7px;
+  position: relative;
+  border-top: 1px;
+  border-right: 1px;
+  margin: 20px 120px;
+}
+.fade.alert.alert-danger.show {
+  width: 400px;
+  margin-left: 170px;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,17 @@
+.pageCate {
+  min-height: 1000px;
+  background-color: rgba(137, 43, 226, 0.116);
+}
+
+.banner-category {
+  height: 150px;
+  width: 1483px;
+  margin-bottom: 20px;
+  background-image: url(/public/sfondo1.png);
+  background-size: cover;
+  background-position-y: -400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+}

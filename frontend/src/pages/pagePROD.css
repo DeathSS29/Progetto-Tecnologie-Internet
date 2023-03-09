@@ -1,0 +1,26 @@
+.product-image {
+  max-width: 65%;
+  max-height: auto;
+  object-fit: cover;
+
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.alice-carousel__prev-btn,
+.alice-carousel__next-btn {
+  display: none !important;
+}
+.pageProd {
+  height: 1000px;
+  width: auto;
+  background-color: rgba(171, 87, 250, 0.356);
+}
+.item {
+  height: auto;
+  margin-left: 120px;
+  margin-top: 200px;
+}
+.Title {
+  margin-top: 150px;
+}

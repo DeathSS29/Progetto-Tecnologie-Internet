@@ -1,0 +1,26 @@
+.register_form-container {
+  display: flex;
+  flex-direction: column;
+  height: 660px;
+  margin-left: 370px;
+  justify-content: center;
+}
+.btn1.btn.btn-primary {
+  background-color: rgb(25, 18, 18);
+}
+.line.form-control {
+  width: 600px;
+  background-color: oldlace;
+  border-radius: 7px;
+  position: relative;
+  border-top: 1px;
+  border-right: 1px;
+  margin: 20px 80px;
+}
+.Container2 {
+  background-image: url(/public/register.png);
+  height: 700px;
+  background-size: cover;
+  background-position-x: 00px;
+  background-position-y: -500px;
+}

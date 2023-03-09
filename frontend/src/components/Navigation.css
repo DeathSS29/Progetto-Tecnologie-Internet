@@ -1,0 +1,8 @@
+.logout-btn {
+  margin: 0 auto;
+  display: block !important;
+}
+.navbar {
+  background-image: url(/public/sfondo.png);
+  height: 100px;
+}

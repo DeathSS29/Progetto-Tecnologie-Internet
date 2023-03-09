@@ -1,0 +1,35 @@
+.card {
+  border: none;
+  width: 15px;
+}
+
+img.card-img-top.product-preview-img {
+  border-radius: 20px;
+}
+.category-tile:hover {
+  transform: scale(1.05);
+}
+.sale_banner img {
+  width: 50%;
+  height: 50%;
+}
+.sale_banner {
+  width: 2700px;
+  height: 1200px;
+  margin-left: -600px;
+  margin-top: 10px;
+}
+.home-photo {
+  background-image: url(/public/home1.png);
+  width: 1481, 5px;
+  height: 530px;
+  background-position: 240px;
+  background-position-y: -10px;
+  background-size: 1000px;
+}
+.Home {
+  background-color: rgb(249, 204, 204);
+}
+.section {
+  width: 1500px;
+}

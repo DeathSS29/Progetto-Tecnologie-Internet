@@ -1,0 +1,69 @@
+.form-select {
+  background-color: oldlace;
+  width: 350px;
+  margin-left: 290px;
+}
+.container_prod {
+  background-color: paleturquoise;
+  display: flexbox;
+  height: 1500px;
+}
+.new_prod_form {
+  display: block;
+  flex-direction: column;
+
+  height: 900px;
+  justify-content: center;
+}
+.btn_prd.btn.btn-primary {
+  background-color: brown;
+  margin-right: 350px;
+  margin-bottom: -200px;
+}
+.button1.btn.btn-primary {
+  background-color: black;
+  margin-top: -115px;
+  margin-right: 350px;
+}
+.images-prevcont {
+  display: grid;
+  width: 500px;
+  grid-template-columns: repeat(auto-fill, minmax(min(50px, 20%), 1fr));
+  gap: 70px;
+  margin-top: 20px;
+}
+.image-preview {
+  width: 120px;
+  margin-left: 110px;
+  display: inline;
+  position: relative;
+}
+.image-preview img {
+  width: 80%;
+  height: 80%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.image-preview i,
+.remove-img-spinner {
+  position: absolute;
+  top: -10px;
+  left: 0px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.image-preview i:hover {
+  color: purple;
+}
+.new_prod_image {
+  background-image: url(/public/new_prod.png);
+  height: 750px;
+  background-size: 500px;
+  background-position-x: 120px;
+  background-position-y: 50px;
+  border-radius: 20px;
+  margin-left: 700px;
+  bottom: 800px;
+  position: relative;
+}
